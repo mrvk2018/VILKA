@@ -1,0 +1,3132 @@
+{
+  "learningLanguageCode": "ko",
+  "version": 1,
+  "topics": [
+    {
+      "id": 1,
+      "key": "shop",
+      "titleRu": "Магазин",
+      "titleEn": "Shop",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "key": "cafe",
+      "titleRu": "Кафе",
+      "titleEn": "Cafe",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "key": "metro",
+      "titleRu": "Метро",
+      "titleEn": "Subway",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "key": "bus",
+      "titleRu": "Автобус",
+      "titleEn": "Bus",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "key": "taxi",
+      "titleRu": "Такси",
+      "titleEn": "Taxi",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "key": "airport",
+      "titleRu": "Аэропорт",
+      "titleEn": "Airport",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "key": "train",
+      "titleRu": "Ж/д вокзал",
+      "titleEn": "Train station",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "key": "bus_station",
+      "titleRu": "Автовокзал",
+      "titleEn": "Bus terminal",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "key": "beach",
+      "titleRu": "Пляж",
+      "titleEn": "Beach",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "key": "park",
+      "titleRu": "Парк",
+      "titleEn": "Park",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "key": "aquapark",
+      "titleRu": "Аквапарк",
+      "titleEn": "Water park",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "key": "immigration",
+      "titleRu": "Миграционная служба",
+      "titleEn": "Immigration office",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "key": "greetings",
+      "titleRu": "Знакомство / вежливость",
+      "titleEn": "Greetings",
+      "order": 0
+    },
+    {
+      "id": 14,
+      "key": "salon",
+      "titleRu": "Парикмахерская",
+      "titleEn": "Hair salon",
+      "order": 13
+    },
+    {
+      "id": 15,
+      "key": "police_street",
+      "titleRu": "Полиция: На улице",
+      "titleEn": "Police: On the street",
+      "order": 14
+    },
+    {
+      "id": 16,
+      "key": "police_station",
+      "titleRu": "Полиция: В участке",
+      "titleEn": "Police: At the station",
+      "order": 15
+    },
+    {
+      "id": 17,
+      "key": "housing_agency",
+      "titleRu": "Жилье: В агентстве",
+      "titleEn": "Housing: Real estate agency",
+      "order": 16
+    },
+    {
+      "id": 18,
+      "key": "housing_owner",
+      "titleRu": "Жилье: С хозяином",
+      "titleEn": "Housing: With landlord",
+      "order": 17
+    },
+    {
+      "id": 19,
+      "key": "city_hall",
+      "titleRu": "Мэрия / Администрация",
+      "titleEn": "City hall / District office",
+      "order": 18
+    },
+    {
+      "id": 20,
+      "key": "tax_office",
+      "titleRu": "Налоговая инспекция",
+      "titleEn": "Tax office",
+      "order": 19
+    },
+    {
+      "id": 21,
+      "key": "telecom_shop",
+      "titleRu": "Салон связи / SIM-карта",
+      "titleEn": "Telecom shop / SIM card",
+      "order": 20
+    },
+    {
+      "id": 22,
+      "key": "bank",
+      "titleRu": "Банк / Открытие счета",
+      "titleEn": "Bank / Open account",
+      "order": 21
+    }
+  ],
+  "phrases": [
+    {
+      "id": 1001,
+      "topicId": 1,
+      "koreanText": "얼마예요?",
+      "russianTranslation": "Сколько это стоит?",
+      "englishTranslation": "How much is it?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 1002,
+      "topicId": 1,
+      "koreanText": "이 봉투 주세요.",
+      "russianTranslation": "Дайте этот пакет, пожалуйста.",
+      "englishTranslation": "Please give me this bag.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 1003,
+      "topicId": 1,
+      "koreanText": "물은 어디에 있어요?",
+      "russianTranslation": "Где лежит вода?",
+      "englishTranslation": "Where is the water?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 1004,
+      "topicId": 1,
+      "koreanText": "계산해 주세요.",
+      "russianTranslation": "Пробейте, пожалуйста.",
+      "englishTranslation": "Please ring it up.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 1005,
+      "topicId": 1,
+      "koreanText": "카드로 결제할게요.",
+      "russianTranslation": "Я заплачу картой.",
+      "englishTranslation": "I'll pay by card.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 1006,
+      "topicId": 1,
+      "koreanText": "이거 있어요?",
+      "russianTranslation": "Это есть в наличии?",
+      "englishTranslation": "Do you have this?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 1007,
+      "topicId": 1,
+      "koreanText": "다른 색 있어요?",
+      "russianTranslation": "Есть другой цвет?",
+      "englishTranslation": "Do you have another color?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 1008,
+      "topicId": 1,
+      "koreanText": "할인해요?",
+      "russianTranslation": "Есть скидка?",
+      "englishTranslation": "Is there a discount?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 1009,
+      "topicId": 1,
+      "koreanText": "봉투 필요 없어요.",
+      "russianTranslation": "Пакет не нужен.",
+      "englishTranslation": "I don't need a bag.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 1010,
+      "topicId": 1,
+      "koreanText": "현금으로 낼게요.",
+      "russianTranslation": "Заплачу наличными.",
+      "englishTranslation": "I'll pay in cash.",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 1011,
+      "topicId": 1,
+      "koreanText": "영수증 필요 없어요.",
+      "russianTranslation": "Чек не нужен.",
+      "englishTranslation": "I don't need a receipt.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 1012,
+      "topicId": 1,
+      "koreanText": "교환할 수 있어요?",
+      "russianTranslation": "Можно обменять?",
+      "englishTranslation": "Can I exchange this?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 1013,
+      "topicId": 1,
+      "koreanText": "환불해 주세요.",
+      "russianTranslation": "Верните деньги, пожалуйста.",
+      "englishTranslation": "Please give me a refund.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 1014,
+      "topicId": 1,
+      "koreanText": "세일 중인가요?",
+      "russianTranslation": "Это по акции?",
+      "englishTranslation": "Is this on sale?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 1015,
+      "topicId": 1,
+      "koreanText": "좀 더 싼 거 있어요?",
+      "russianTranslation": "Есть подешевле?",
+      "englishTranslation": "Do you have something cheaper?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 2001,
+      "topicId": 2,
+      "koreanText": "메뉴판 주세요.",
+      "russianTranslation": "Меню, пожалуйста.",
+      "englishTranslation": "Menu, please.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 2002,
+      "topicId": 2,
+      "koreanText": "아메리카노 한 잔 주세요.",
+      "russianTranslation": "Один американо, пожалуйста.",
+      "englishTranslation": "One americano, please.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 2003,
+      "topicId": 2,
+      "koreanText": "포장해 주세요.",
+      "russianTranslation": "Упакуйте с собой, пожалуйста.",
+      "englishTranslation": "To go, please.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 2004,
+      "topicId": 2,
+      "koreanText": "덜 달게 해 주세요.",
+      "russianTranslation": "Сделайте менее сладким, пожалуйста.",
+      "englishTranslation": "Less sweet, please.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 2005,
+      "topicId": 2,
+      "koreanText": "영수증 주세요.",
+      "russianTranslation": "Чек, пожалуйста.",
+      "englishTranslation": "Receipt, please.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 2006,
+      "topicId": 2,
+      "koreanText": "여기서 먹을게요.",
+      "russianTranslation": "Буду есть здесь.",
+      "englishTranslation": "For here, please.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 2007,
+      "topicId": 2,
+      "koreanText": "얼음 빼 주세요.",
+      "russianTranslation": "Без льда, пожалуйста.",
+      "englishTranslation": "No ice, please.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 2008,
+      "topicId": 2,
+      "koreanText": "디카페인으로 주세요.",
+      "russianTranslation": "Декаф, пожалуйста.",
+      "englishTranslation": "Decaf, please.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 2009,
+      "topicId": 2,
+      "koreanText": "오트밀크로 바꿔 주세요.",
+      "russianTranslation": "Замените на овсяное молоко.",
+      "englishTranslation": "Oat milk, please.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 2010,
+      "topicId": 2,
+      "koreanText": "와이파이 비밀번호 뭐예요?",
+      "russianTranslation": "Какой пароль от Wi‑Fi?",
+      "englishTranslation": "What's the Wi‑Fi password?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 2011,
+      "topicId": 2,
+      "koreanText": "콘센트 자리 있어요?",
+      "russianTranslation": "Есть место у розетки?",
+      "englishTranslation": "Is there a seat near an outlet?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 2012,
+      "topicId": 2,
+      "koreanText": "물 한 잔 더 주세요.",
+      "russianTranslation": "Ещё воды, пожалуйста.",
+      "englishTranslation": "Another water, please.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 2013,
+      "topicId": 2,
+      "koreanText": "맵지 않게 해 주세요.",
+      "russianTranslation": "Не острое, пожалуйста.",
+      "englishTranslation": "Not spicy, please.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 2014,
+      "topicId": 2,
+      "koreanText": "추천 메뉴 뭐예요?",
+      "russianTranslation": "Что посоветуете?",
+      "englishTranslation": "What do you recommend?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 2015,
+      "topicId": 2,
+      "koreanText": "맛있게 드세요.",
+      "russianTranslation": "Приятного аппетита. (в ответ)",
+      "englishTranslation": "Enjoy your meal.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 3001,
+      "topicId": 3,
+      "koreanText": "역이 어디예요?",
+      "russianTranslation": "Где станция?",
+      "englishTranslation": "Where is the station?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 3002,
+      "topicId": 3,
+      "koreanText": "표 한 장 주세요.",
+      "russianTranslation": "Один билет, пожалуйста.",
+      "englishTranslation": "One ticket, please.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 3003,
+      "topicId": 3,
+      "koreanText": "몇 번 출구예요?",
+      "russianTranslation": "Какой выход?",
+      "englishTranslation": "Which exit?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 3004,
+      "topicId": 3,
+      "koreanText": "환승은 어디서 해요?",
+      "russianTranslation": "Где пересаживаться?",
+      "englishTranslation": "Where do I transfer?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 3005,
+      "topicId": 3,
+      "koreanText": "이쪽으로 가면 돼요?",
+      "russianTranslation": "Идти в эту сторону?",
+      "englishTranslation": "Should I go this way?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 3006,
+      "topicId": 3,
+      "koreanText": "교통카드 충전하고 싶어요.",
+      "russianTranslation": "Хочу пополнить транспортную карту.",
+      "englishTranslation": "I'd like to recharge my transit card.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 3007,
+      "topicId": 3,
+      "koreanText": "어린이 요금이에요?",
+      "russianTranslation": "Это детский тариф?",
+      "englishTranslation": "Is this the child fare?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 3008,
+      "topicId": 3,
+      "koreanText": "막차가 몇 시예요?",
+      "russianTranslation": "Во сколько последний поезд?",
+      "englishTranslation": "What time is the last train?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 3009,
+      "topicId": 3,
+      "koreanText": "이쪽이 맞아요?",
+      "russianTranslation": "Это правильная сторона?",
+      "englishTranslation": "Is this the right direction?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 3010,
+      "topicId": 3,
+      "koreanText": "좌석에 앉아도 돼요?",
+      "russianTranslation": "Можно сидеть?",
+      "englishTranslation": "May I sit down?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 3011,
+      "topicId": 3,
+      "koreanText": "내릴 때 카드 찍어요?",
+      "russianTranslation": "При выходе тоже приложить карту?",
+      "englishTranslation": "Do I tap when getting off?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 3012,
+      "topicId": 3,
+      "koreanText": "엘리베이터가 어디예요?",
+      "russianTranslation": "Где лифт?",
+      "englishTranslation": "Where is the elevator?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 3013,
+      "topicId": 3,
+      "koreanText": "장애인 출입구가 어디예요?",
+      "russianTranslation": "Где вход для маломобильных?",
+      "englishTranslation": "Where is the accessible entrance?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 3014,
+      "topicId": 3,
+      "koreanText": "분실물 센터가 어디예요?",
+      "russianTranslation": "Где бюро находок?",
+      "englishTranslation": "Where is the lost and found?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 3015,
+      "topicId": 3,
+      "koreanText": "길을 잃었어요.",
+      "russianTranslation": "Я заблудился.",
+      "englishTranslation": "I'm lost.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 4001,
+      "topicId": 4,
+      "koreanText": "버스 정류장이 어디예요?",
+      "russianTranslation": "Где автобусная остановка?",
+      "englishTranslation": "Where is the bus stop?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 4002,
+      "topicId": 4,
+      "koreanText": "이 버스 타면 돼요?",
+      "russianTranslation": "Можно сесть на этот автобус?",
+      "englishTranslation": "Can I take this bus?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 4003,
+      "topicId": 4,
+      "koreanText": "다음 정류장에서 내려 주세요.",
+      "russianTranslation": "Остановите на следующей, пожалуйста.",
+      "englishTranslation": "Please stop at the next stop.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 4004,
+      "topicId": 4,
+      "koreanText": "교통카드 찍을게요.",
+      "russianTranslation": "Приложу транспортную карту.",
+      "englishTranslation": "I'll tap my transit card.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 4005,
+      "topicId": 4,
+      "koreanText": "얼마예요?",
+      "russianTranslation": "Сколько стоит?",
+      "englishTranslation": "How much is the fare?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 4006,
+      "topicId": 4,
+      "koreanText": "종점까지 가요?",
+      "russianTranslation": "До конечной?",
+      "englishTranslation": "Does it go to the terminal?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 4007,
+      "topicId": 4,
+      "koreanText": "하차 벨 눌러 주세요.",
+      "russianTranslation": "Нажмите кнопку выхода, пожалуйста.",
+      "englishTranslation": "Please press the stop button.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 4008,
+      "topicId": 4,
+      "koreanText": "자리 비었어요?",
+      "russianTranslation": "Место свободно?",
+      "englishTranslation": "Is this seat taken?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 4009,
+      "topicId": 4,
+      "koreanText": "앞문으로 타도 돼요?",
+      "russianTranslation": "Можно войти через переднюю дверь?",
+      "englishTranslation": "Can I board at the front?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 4010,
+      "topicId": 4,
+      "koreanText": "교통카드 잔액이 부족해요.",
+      "russianTranslation": "На карте не хватает денег.",
+      "englishTranslation": "My card balance is low.",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 4011,
+      "topicId": 4,
+      "koreanText": "환승 할인 되나요?",
+      "russianTranslation": "Есть скидка на пересадку?",
+      "englishTranslation": "Is there a transfer discount?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 4012,
+      "topicId": 4,
+      "koreanText": "버스가 언제 와요?",
+      "russianTranslation": "Когда приедет автобус?",
+      "englishTranslation": "When will the bus come?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 4013,
+      "topicId": 4,
+      "koreanText": "급정거하지 마세요.",
+      "russianTranslation": "Не резко тормозите, пожалуйста.",
+      "englishTranslation": "Please don't brake suddenly.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 4014,
+      "topicId": 4,
+      "koreanText": "창문 열어도 돼요?",
+      "russianTranslation": "Можно открыть окно?",
+      "englishTranslation": "Can I open the window?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 4015,
+      "topicId": 4,
+      "koreanText": "정류장 이름이 뭐예요?",
+      "russianTranslation": "Как называется эта остановка?",
+      "englishTranslation": "What's this stop called?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 5001,
+      "topicId": 5,
+      "koreanText": "공항 가 주세요.",
+      "russianTranslation": "Пожалуйста, отвезите в аэропорт.",
+      "englishTranslation": "Please take me to the airport.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 5002,
+      "topicId": 5,
+      "koreanText": "여기서 세워 주세요.",
+      "russianTranslation": "Остановите здесь, пожалуйста.",
+      "englishTranslation": "Please stop here.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 5003,
+      "topicId": 5,
+      "koreanText": "얼마예요?",
+      "russianTranslation": "Сколько стоит?",
+      "englishTranslation": "How much is it?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 5004,
+      "topicId": 5,
+      "koreanText": "카드로 결제할게요.",
+      "russianTranslation": "Я заплачу картой.",
+      "englishTranslation": "I'll pay by card.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 5005,
+      "topicId": 5,
+      "koreanText": "영수증 주세요.",
+      "russianTranslation": "Дайте чек, пожалуйста.",
+      "englishTranslation": "Receipt, please.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 5006,
+      "topicId": 5,
+      "koreanText": "미터기 켜 주세요.",
+      "russianTranslation": "Включите счётчик, пожалуйста.",
+      "englishTranslation": "Please turn on the meter.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 5007,
+      "topicId": 5,
+      "koreanText": "택시 불러 주세요.",
+      "russianTranslation": "Вызовите такси, пожалуйста.",
+      "englishTranslation": "Please call a taxi.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 5008,
+      "topicId": 5,
+      "koreanText": "짐 넣어 주세요.",
+      "russianTranslation": "Положите багаж, пожалуйста.",
+      "englishTranslation": "Please put my luggage in.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 5009,
+      "topicId": 5,
+      "koreanText": "트렁크 열어 주세요.",
+      "russianTranslation": "Откройте багажник, пожалуйста.",
+      "englishTranslation": "Please open the trunk.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 5010,
+      "topicId": 5,
+      "koreanText": "여기 주소로 가 주세요.",
+      "russianTranslation": "По этому адресу, пожалуйста.",
+      "englishTranslation": "To this address, please.",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 5011,
+      "topicId": 5,
+      "koreanText": "빨리 가 주세요.",
+      "russianTranslation": "Пожалуйста, быстрее.",
+      "englishTranslation": "Please hurry.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 5012,
+      "topicId": 5,
+      "koreanText": "천천히 가 주세요.",
+      "russianTranslation": "Пожалуйста, помедленнее.",
+      "englishTranslation": "Please drive slowly.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 5013,
+      "topicId": 5,
+      "koreanText": "카카오택시 불렀어요.",
+      "russianTranslation": "Я вызвал через Kakao Taxi.",
+      "englishTranslation": "I called via Kakao Taxi.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 5014,
+      "topicId": 5,
+      "koreanText": "팁은 없어도 돼요?",
+      "russianTranslation": "Чаевые не нужны?",
+      "englishTranslation": "No tip needed?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 5015,
+      "topicId": 5,
+      "koreanText": "영수증 필요 없어요.",
+      "russianTranslation": "Чек не нужен.",
+      "englishTranslation": "No receipt needed.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 6001,
+      "topicId": 6,
+      "koreanText": "체크인 카운터가 어디예요?",
+      "russianTranslation": "Где стойка регистрации?",
+      "englishTranslation": "Where is the check-in counter?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 6002,
+      "topicId": 6,
+      "koreanText": "탑승권 보여 드릴게요.",
+      "russianTranslation": "Сейчас покажу посадочный талон.",
+      "englishTranslation": "I'll show you my boarding pass.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 6003,
+      "topicId": 6,
+      "koreanText": "짐을 부치고 싶어요.",
+      "russianTranslation": "Хочу сдать багаж.",
+      "englishTranslation": "I'd like to check my luggage.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 6004,
+      "topicId": 6,
+      "koreanText": "게이트가 어디예요?",
+      "russianTranslation": "Где выход на посадку?",
+      "englishTranslation": "Where is the gate?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 6005,
+      "topicId": 6,
+      "koreanText": "비행기가 연착됐어요?",
+      "russianTranslation": "Рейс задерживается?",
+      "englishTranslation": "Is the flight delayed?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 6006,
+      "topicId": 6,
+      "koreanText": "출입국 심사는 어디예요?",
+      "russianTranslation": "Где паспортный контроль?",
+      "englishTranslation": "Where is immigration?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 6007,
+      "topicId": 6,
+      "koreanText": "세관 신고해야 해요?",
+      "russianTranslation": "Нужно декларировать?",
+      "englishTranslation": "Do I need to declare?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 6008,
+      "topicId": 6,
+      "koreanText": "면세점이 어디예요?",
+      "russianTranslation": "Где duty free?",
+      "englishTranslation": "Where is duty free?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 6009,
+      "topicId": 6,
+      "koreanText": "환전소가 어디예요?",
+      "russianTranslation": "Где обмен валюты?",
+      "englishTranslation": "Where is currency exchange?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 6010,
+      "topicId": 6,
+      "koreanText": "기내 반입 가능해요?",
+      "russianTranslation": "Можно взять в салон?",
+      "englishTranslation": "Can I take this on board?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 6011,
+      "topicId": 6,
+      "koreanText": "액체류 반입 돼요?",
+      "russianTranslation": "Можно провозить жидкости?",
+      "englishTranslation": "Can I bring liquids?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 6012,
+      "topicId": 6,
+      "koreanText": "좌석 변경하고 싶어요.",
+      "russianTranslation": "Хочу сменить место.",
+      "englishTranslation": "I'd like to change my seat.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 6013,
+      "topicId": 6,
+      "koreanText": "수하물 찾는 곳이 어디예요?",
+      "russianTranslation": "Где выдача багажа?",
+      "englishTranslation": "Where is baggage claim?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 6014,
+      "topicId": 6,
+      "koreanText": "환승 안내해 주세요.",
+      "russianTranslation": "Подскажите по пересадке.",
+      "englishTranslation": "Please help with my connection.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 6015,
+      "topicId": 6,
+      "koreanText": "공항 셔틀버스 어디서 타요?",
+      "russianTranslation": "Откуда шаттл по аэропорту?",
+      "englishTranslation": "Where is the airport shuttle?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 7001,
+      "topicId": 7,
+      "koreanText": "표 두 장 주세요.",
+      "russianTranslation": "Два билета, пожалуйста.",
+      "englishTranslation": "Two tickets, please.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 7002,
+      "topicId": 7,
+      "koreanText": "몇 번 플랫폼이에요?",
+      "russianTranslation": "Какой перрон?",
+      "englishTranslation": "Which platform?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 7003,
+      "topicId": 7,
+      "koreanText": "기차가 언제 출발해요?",
+      "russianTranslation": "Когда отправляется поезд?",
+      "englishTranslation": "When does the train leave?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 7004,
+      "topicId": 7,
+      "koreanText": "예약했어요.",
+      "russianTranslation": "Я бронировал.",
+      "englishTranslation": "I have a reservation.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 7005,
+      "topicId": 7,
+      "koreanText": "창가 자리 주세요.",
+      "russianTranslation": "Место у окна, пожалуйста.",
+      "englishTranslation": "A window seat, please.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 7006,
+      "topicId": 7,
+      "koreanText": "KTX표 주세요.",
+      "russianTranslation": "Билет на KTX, пожалуйста.",
+      "englishTranslation": "A KTX ticket, please.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 7007,
+      "topicId": 7,
+      "koreanText": "좌석 번호가 어디예요?",
+      "russianTranslation": "Где моё место?",
+      "englishTranslation": "Where is my seat?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 7008,
+      "topicId": 7,
+      "koreanText": "중간에 내려요.",
+      "russianTranslation": "Выходу по пути.",
+      "englishTranslation": "I'm getting off midway.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 7009,
+      "topicId": 7,
+      "koreanText": "표 검사해 주세요.",
+      "russianTranslation": "Проверьте билет, пожалуйста.",
+      "englishTranslation": "Please check my ticket.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 7010,
+      "topicId": 7,
+      "koreanText": "짐 위에 올려도 돼요?",
+      "russianTranslation": "Можно положить сумку наверх?",
+      "englishTranslation": "Can I put my bag overhead?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 7011,
+      "topicId": 7,
+      "koreanText": "정차역 알려 주세요.",
+      "russianTranslation": "Скажите, когда моя станция.",
+      "englishTranslation": "Please tell me when we arrive.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 7012,
+      "topicId": 7,
+      "koreanText": "늦지 않게 도착할게요.",
+      "russianTranslation": "Приеду вовремя.",
+      "englishTranslation": "I'll arrive on time.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 7013,
+      "topicId": 7,
+      "koreanText": "역 앞에서 만나요.",
+      "russianTranslation": "Встретимся у выхода станции.",
+      "englishTranslation": "Meet me in front of the station.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 7014,
+      "topicId": 7,
+      "koreanText": "표 환불하고 싶어요.",
+      "russianTranslation": "Хочу вернуть билет.",
+      "englishTranslation": "I'd like a refund on my ticket.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 7015,
+      "topicId": 7,
+      "koreanText": "할인 받을 수 있어요?",
+      "russianTranslation": "Можно получить скидку?",
+      "englishTranslation": "Can I get a discount?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 8001,
+      "topicId": 8,
+      "koreanText": "서울행 버스 어디서 타요?",
+      "russianTranslation": "Откуда автобус до Сеула?",
+      "englishTranslation": "Where is the bus to Seoul?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 8002,
+      "topicId": 8,
+      "koreanText": "표 예매했어요.",
+      "russianTranslation": "Билет уже куплен.",
+      "englishTranslation": "I booked a ticket.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 8003,
+      "topicId": 8,
+      "koreanText": "몇 번 승강장이에요?",
+      "russianTranslation": "Какая платформа?",
+      "englishTranslation": "Which platform?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 8004,
+      "topicId": 8,
+      "koreanText": "짐을 맡길 수 있어요?",
+      "russianTranslation": "Можно сдать багаж?",
+      "englishTranslation": "Can I check luggage?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 8005,
+      "topicId": 8,
+      "koreanText": "출발 시간이 언제예요?",
+      "russianTranslation": "Во сколько отправление?",
+      "englishTranslation": "What time is departure?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 8006,
+      "topicId": 8,
+      "koreanText": "고속버스 터미널이 어디예요?",
+      "russianTranslation": "Где автовокzal экспресс-бусов?",
+      "englishTranslation": "Where is the express bus terminal?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 8007,
+      "topicId": 8,
+      "koreanText": "좌석 지정석이에요?",
+      "russianTranslation": "Места фиксированные?",
+      "englishTranslation": "Are seats assigned?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 8008,
+      "topicId": 8,
+      "koreanText": "창가 자리로 바꿔 주세요.",
+      "russianTranslation": "Поменяйте на место у окна.",
+      "englishTranslation": "Window seat, please.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 8009,
+      "topicId": 8,
+      "koreanText": "중간 휴게소에서 쉬어요?",
+      "russianTranslation": "Будет остановка на rest area?",
+      "englishTranslation": "Is there a rest stop?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 8010,
+      "topicId": 8,
+      "koreanText": "버스가 지연됐어요?",
+      "russianTranslation": "Автобус задерживается?",
+      "englishTranslation": "Is the bus delayed?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 8011,
+      "topicId": 8,
+      "koreanText": "표를 분실했어요.",
+      "russianTranslation": "Я потерял билет.",
+      "englishTranslation": "I lost my ticket.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 8012,
+      "topicId": 8,
+      "koreanText": "다음 버스는 몇 시예요?",
+      "russianTranslation": "Следующий автобус во сколько?",
+      "englishTranslation": "What time is the next bus?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 8013,
+      "topicId": 8,
+      "koreanText": "싣긴 짐 무게 제한이 있어요?",
+      "russianTranslation": "Есть лимит на багаж?",
+      "englishTranslation": "Is there a luggage weight limit?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 8014,
+      "topicId": 8,
+      "koreanText": "안전벨트 매 주세요.",
+      "russianTranslation": "Пристегните ремень, пожалуйста.",
+      "englishTranslation": "Please fasten your seatbelt.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 8015,
+      "topicId": 8,
+      "koreanText": "목적지까지 얼마나 걸려요?",
+      "russianTranslation": "Сколько ехать до пункта назначения?",
+      "englishTranslation": "How long until we arrive?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 9001,
+      "topicId": 9,
+      "koreanText": "해변이 어디예요?",
+      "russianTranslation": "Где пляж?",
+      "englishTranslation": "Where is the beach?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 9002,
+      "topicId": 9,
+      "koreanText": "수영복 파는 곳이 어디예요?",
+      "russianTranslation": "Где купить купальник?",
+      "englishTranslation": "Where can I buy a swimsuit?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 9003,
+      "topicId": 9,
+      "koreanText": "구명조끼 빌릴 수 있어요?",
+      "russianTranslation": "Можно взять спасжилет?",
+      "englishTranslation": "Can I rent a life vest?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 9004,
+      "topicId": 9,
+      "koreanText": "그늘이 있는 곳이 어디예요?",
+      "russianTranslation": "Где есть тень?",
+      "englishTranslation": "Where is there shade?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 9005,
+      "topicId": 9,
+      "koreanText": "샤워실이 어디예요?",
+      "russianTranslation": "Где душ?",
+      "englishTranslation": "Where are the showers?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 9006,
+      "topicId": 9,
+      "koreanText": "구명조끼 꼭 입어야 해요?",
+      "russianTranslation": "Обязательно надевать спасжилет?",
+      "englishTranslation": "Must I wear a life vest?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 9007,
+      "topicId": 9,
+      "koreanText": "파라솔 빌릴 수 있어요?",
+      "russianTranslation": "Можно арендовать зонт?",
+      "englishTranslation": "Can I rent a parasol?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 9008,
+      "topicId": 9,
+      "koreanText": "수영해도 돼요?",
+      "russianTranslation": "Можно купаться?",
+      "englishTranslation": "Is swimming allowed?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 9009,
+      "topicId": 9,
+      "koreanText": "조심하세요, 파도가 커요.",
+      "russianTranslation": "Осторожно, большие волны.",
+      "englishTranslation": "Careful, the waves are big.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 9010,
+      "topicId": 9,
+      "koreanText": "구조대 번호가 뭐예요?",
+      "russianTranslation": "Какой номер спасателей?",
+      "englishTranslation": "What's the lifeguard number?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 9011,
+      "topicId": 9,
+      "koreanText": "쓰레기통이 어디예요?",
+      "russianTranslation": "Где урна?",
+      "englishTranslation": "Where is the trash bin?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 9012,
+      "topicId": 9,
+      "koreanText": "선크림 있어요?",
+      "russianTranslation": "Есть солнцезащитный крем?",
+      "englishTranslation": "Do you have sunscreen?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 9013,
+      "topicId": 9,
+      "koreanText": "물놀이 금지 구역이에요?",
+      "russianTranslation": "Здесь купание запрещено?",
+      "englishTranslation": "Is swimming prohibited here?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 9014,
+      "topicId": 9,
+      "koreanText": "샌들 팔아요?",
+      "russianTranslation": "Продаёте шлёпанцы?",
+      "englishTranslation": "Do you sell sandals?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 9015,
+      "topicId": 9,
+      "koreanText": "일몰 시간이 몇 시예요?",
+      "russianTranslation": "Во сколько закат?",
+      "englishTranslation": "What time is sunset?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 10001,
+      "topicId": 10,
+      "koreanText": "공원 입구가 어디예요?",
+      "russianTranslation": "Где вход в парк?",
+      "englishTranslation": "Where is the park entrance?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 10002,
+      "topicId": 10,
+      "koreanText": "화장실이 어디예요?",
+      "russianTranslation": "Где туалет?",
+      "englishTranslation": "Where is the restroom?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 10003,
+      "topicId": 10,
+      "koreanText": "벤치가 있는 곳이 어디예요?",
+      "russianTranslation": "Где можно сесть на скамейку?",
+      "englishTranslation": "Where are the benches?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 10004,
+      "topicId": 10,
+      "koreanText": "사진 찍어도 돼요?",
+      "russianTranslation": "Можно фотографировать?",
+      "englishTranslation": "May I take photos?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 10005,
+      "topicId": 10,
+      "koreanText": "여기 앉아도 돼요?",
+      "russianTranslation": "Можно здесь сидеть?",
+      "englishTranslation": "Can I sit here?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 10006,
+      "topicId": 10,
+      "koreanText": "자전거 대여할 수 있어요?",
+      "russianTranslation": "Можно взять велосипед?",
+      "englishTranslation": "Can I rent a bicycle?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 10007,
+      "topicId": 10,
+      "koreanText": "반려동물 데려와도 돼요?",
+      "russianTranslation": "Можно с питомцем?",
+      "englishTranslation": "Are pets allowed?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 10008,
+      "topicId": 10,
+      "koreanText": "쓰레기 가져가 주세요.",
+      "russianTranslation": "Заберите мусор, пожалуйста.",
+      "englishTranslation": "Please take your trash.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 10009,
+      "topicId": 10,
+      "koreanText": "조용히 해 주세요.",
+      "russianTranslation": "Пожалуйста, тише.",
+      "englishTranslation": "Please be quiet.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 10010,
+      "topicId": 10,
+      "koreanText": "길이 어디로 이어져요?",
+      "russianTranslation": "Куда ведёт эта дорожка?",
+      "englishTranslation": "Where does this path go?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 10011,
+      "topicId": 10,
+      "koreanText": "분수대가 어디예요?",
+      "russianTranslation": "Где фонтан?",
+      "englishTranslation": "Where is the fountain?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 10012,
+      "topicId": 10,
+      "koreanText": "운동기구 사용해도 돼요?",
+      "russianTranslation": "Можно пользоваться тренажёрами?",
+      "englishTranslation": "Can I use the exercise equipment?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 10013,
+      "topicId": 10,
+      "koreanText": "공원이 몇 시에 닫아요?",
+      "russianTranslation": "Во сколько парк закрывается?",
+      "englishTranslation": "What time does the park close?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 10014,
+      "topicId": 10,
+      "koreanText": "지도 있어요?",
+      "russianTranslation": "Есть карта парка?",
+      "englishTranslation": "Do you have a map?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 10015,
+      "topicId": 10,
+      "koreanText": "물 마실 곳이 어디예요?",
+      "russianTranslation": "Где питьевая вода?",
+      "englishTranslation": "Where can I get drinking water?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 11001,
+      "topicId": 11,
+      "koreanText": "락커는 어디예요?",
+      "russianTranslation": "Где камера хранения?",
+      "englishTranslation": "Where are the lockers?",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 11002,
+      "topicId": 11,
+      "koreanText": "튜브 빌릴 수 있어요?",
+      "russianTranslation": "Можно взять круг?",
+      "englishTranslation": "Can I rent a tube?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 11003,
+      "topicId": 11,
+      "koreanText": "키 제한이 있어요?",
+      "russianTranslation": "Есть ограничение по росту?",
+      "englishTranslation": "Is there a height limit?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 11004,
+      "topicId": 11,
+      "koreanText": "줄이 얼마나 길어요?",
+      "russianTranslation": "Насколько длинная очередь?",
+      "englishTranslation": "How long is the line?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 11005,
+      "topicId": 11,
+      "koreanText": "수건 대여돼요?",
+      "russianTranslation": "Полотенце можно взять?",
+      "englishTranslation": "Are towels available?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 11006,
+      "topicId": 11,
+      "koreanText": "수영복 입고 와야 해요?",
+      "russianTranslation": "Нужно прийти уже в купальнике?",
+      "englishTranslation": "Should I come in a swimsuit?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 11007,
+      "topicId": 11,
+      "koreanText": "락커 열쇠를 잃어버렸어요.",
+      "russianTranslation": "Я потерял ключ от камеры хранения.",
+      "englishTranslation": "I lost my locker key.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 11008,
+      "topicId": 11,
+      "koreanText": "안전요원이 어디 있어요?",
+      "russianTranslation": "Где спасатель?",
+      "englishTranslation": "Where is the lifeguard?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 11009,
+      "topicId": 11,
+      "koreanText": "미끄럼 주의해 주세요.",
+      "russianTranslation": "Осторожно, скользко.",
+      "englishTranslation": "Caution, slippery.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 11010,
+      "topicId": 11,
+      "koreanText": "아이랑 같이 타도 돼요?",
+      "russianTranslation": "Можно кататься с ребёнком?",
+      "englishTranslation": "Can I ride with a child?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 11011,
+      "topicId": 11,
+      "koreanText": "대기 시간이 얼마나 걸려요?",
+      "russianTranslation": "Сколько ждать?",
+      "englishTranslation": "How long is the wait?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 11012,
+      "topicId": 11,
+      "koreanText": "온수풀은 어디예요?",
+      "russianTranslation": "Где бассейн с тёплой водой?",
+      "englishTranslation": "Where is the heated pool?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 11013,
+      "topicId": 11,
+      "koreanText": "신발 벗고 들어가요?",
+      "russianTranslation": "Обувь снимать?",
+      "englishTranslation": "Do I take off my shoes?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 11014,
+      "topicId": 11,
+      "koreanText": "구급함이 어디예요?",
+      "russianTranslation": "Где аптечка?",
+      "englishTranslation": "Where is the first aid kit?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 11015,
+      "topicId": 11,
+      "koreanText": "재입장 가능해요?",
+      "russianTranslation": "Можно выйти и зайти снова?",
+      "englishTranslation": "Can I re-enter?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 12001,
+      "topicId": 12,
+      "koreanText": "여권 여기 있어요.",
+      "russianTranslation": "Вот мой паспорт.",
+      "englishTranslation": "Here is my passport.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 12002,
+      "topicId": 12,
+      "koreanText": "비자 연장하러 왔어요.",
+      "russianTranslation": "Я пришёл продлить визу.",
+      "englishTranslation": "I came to extend my visa.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 12003,
+      "topicId": 12,
+      "koreanText": "신청서 어디서 받아요?",
+      "russianTranslation": "Где взять бланк?",
+      "englishTranslation": "Where can I get the form?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 12004,
+      "topicId": 12,
+      "koreanText": "서류 제출할게요.",
+      "russianTranslation": "Сейчас подам документы.",
+      "englishTranslation": "I'd like to submit documents.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 12005,
+      "topicId": 12,
+      "koreanText": "통역 서비스 있어요?",
+      "russianTranslation": "Есть переводчик?",
+      "englishTranslation": "Is interpretation available?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 12006,
+      "topicId": 12,
+      "koreanText": "외국인등록증 발급받으러 왔어요.",
+      "russianTranslation": "Пришёл оформить ARC.",
+      "englishTranslation": "I came to apply for an ARC.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 12007,
+      "topicId": 12,
+      "koreanText": "체류 기간 연장 신청할게요.",
+      "russianTranslation": "Подам на продление срока пребывания.",
+      "englishTranslation": "I'll apply to extend my stay.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 12008,
+      "topicId": 12,
+      "koreanText": "지문 찍어야 해요?",
+      "russianTranslation": "Нужно сдавать отпечатки?",
+      "englishTranslation": "Do I need fingerprinting?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 12009,
+      "topicId": 12,
+      "koreanText": "사진 규격이 어떻게 돼요?",
+      "russianTranslation": "Какие требования к фото?",
+      "englishTranslation": "What are the photo requirements?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 12010,
+      "topicId": 12,
+      "koreanText": "수수료는 얼마예요?",
+      "russianTranslation": "Сколько госпошлина?",
+      "englishTranslation": "What's the fee?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 12011,
+      "topicId": 12,
+      "koreanText": "온라인으로 예약했어요.",
+      "russianTranslation": "Я записался онлайн.",
+      "englishTranslation": "I booked online.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 12012,
+      "topicId": 12,
+      "koreanText": "서류가 부족한가요?",
+      "russianTranslation": "Не хватает документов?",
+      "englishTranslation": "Are my documents incomplete?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 12013,
+      "topicId": 12,
+      "koreanText": "처리 기간이 얼마나 걸려요?",
+      "russianTranslation": "Сколько ждать решения?",
+      "englishTranslation": "How long does processing take?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 12014,
+      "topicId": 12,
+      "koreanText": "주소 변경 신고할게요.",
+      "russianTranslation": "Сообщу о смене адреса.",
+      "englishTranslation": "I'll report a change of address.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 12015,
+      "topicId": 12,
+      "koreanText": "출입국 기록 확인해 주세요.",
+      "russianTranslation": "Проверьте историю въездов/выездов.",
+      "englishTranslation": "Please check my entry/exit record.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 13001,
+      "topicId": 13,
+      "koreanText": "안녕하세요.",
+      "russianTranslation": "Здравствуйте.",
+      "englishTranslation": "Hello.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 13002,
+      "topicId": 13,
+      "koreanText": "만나서 반가워요.",
+      "russianTranslation": "Рад познакомиться.",
+      "englishTranslation": "Nice to meet you.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 13003,
+      "topicId": 13,
+      "koreanText": "저는 러시아 사람이에요.",
+      "russianTranslation": "Я из России.",
+      "englishTranslation": "I'm from Russia.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 13004,
+      "topicId": 13,
+      "koreanText": "한국어를 배우고 있어요.",
+      "russianTranslation": "Я учу корейский.",
+      "englishTranslation": "I'm learning Korean.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 13005,
+      "topicId": 13,
+      "koreanText": "감사합니다.",
+      "russianTranslation": "Спасибо.",
+      "englishTranslation": "Thank you.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 13006,
+      "topicId": 13,
+      "koreanText": "실례합니다.",
+      "russianTranslation": "Извините (привлечь внимание).",
+      "englishTranslation": "Excuse me.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 13007,
+      "topicId": 13,
+      "koreanText": "죄송합니다.",
+      "russianTranslation": "Мне жаль / извините.",
+      "englishTranslation": "I'm sorry.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 13008,
+      "topicId": 13,
+      "koreanText": "괜찮아요.",
+      "russianTranslation": "Всё в порядке.",
+      "englishTranslation": "It's okay.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 13009,
+      "topicId": 13,
+      "koreanText": "처음 뵙겠습니다.",
+      "russianTranslation": "Рад познакомиться (формально).",
+      "englishTranslation": "Nice to meet you (formal).",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 13010,
+      "topicId": 13,
+      "koreanText": "이름이 뭐예요?",
+      "russianTranslation": "Как вас зовут?",
+      "englishTranslation": "What's your name?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 13011,
+      "topicId": 13,
+      "koreanText": "연락처 알려 드릴게요.",
+      "russianTranslation": "Дам контакт.",
+      "englishTranslation": "I'll give you my contact.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 13012,
+      "topicId": 13,
+      "koreanText": "나중에 연락할게요.",
+      "russianTranslation": "Свяжусь позже.",
+      "englishTranslation": "I'll contact you later.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 13013,
+      "topicId": 13,
+      "koreanText": "좋은 하루 보내세요.",
+      "russianTranslation": "Хорошего дня.",
+      "englishTranslation": "Have a good day.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 13014,
+      "topicId": 13,
+      "koreanText": "다음에 또 봬요.",
+      "russianTranslation": "До встречи.",
+      "englishTranslation": "See you again.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 13015,
+      "topicId": 13,
+      "koreanText": "천천히 말해 주세요.",
+      "russianTranslation": "Говорите медленнее, пожалуйста.",
+      "englishTranslation": "Please speak slowly.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 14001,
+      "topicId": 14,
+      "koreanText": "짧게 잘라 주세요.",
+      "russianTranslation": "Подстригите покороче, пожалуйста.",
+      "englishTranslation": "Please cut it shorter.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 14002,
+      "topicId": 14,
+      "koreanText": "머리 감아 주세요.",
+      "russianTranslation": "Помойте голову, пожалуйста.",
+      "englishTranslation": "Please wash my hair.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 14003,
+      "topicId": 14,
+      "koreanText": "앞머리만 잘라 주세요.",
+      "russianTranslation": "Мне только чёлку, пожалуйста.",
+      "englishTranslation": "Just the bangs, please.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 14004,
+      "topicId": 14,
+      "koreanText": "너무 짧지 않게 해 주세요.",
+      "russianTranslation": "Не слишком коротко, пожалуйста.",
+      "englishTranslation": "Not too short, please.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 14005,
+      "topicId": 14,
+      "koreanText": "드라이만 해 주세요.",
+      "russianTranslation": "Только сушка, пожалуйста.",
+      "englishTranslation": "Blow-dry only, please.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 14006,
+      "topicId": 14,
+      "koreanText": "펌 해 주세요.",
+      "russianTranslation": "Сделайте химическую завивку.",
+      "englishTranslation": "Perm, please.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 14007,
+      "topicId": 14,
+      "koreanText": "염색하지 말아 주세요.",
+      "russianTranslation": "Не красьте, пожалуйста.",
+      "englishTranslation": "No dye, please.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 14008,
+      "topicId": 14,
+      "koreanText": "같은 스타일로 해 주세요.",
+      "russianTranslation": "Как в прошлый раз.",
+      "englishTranslation": "Same style as last time.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 14009,
+      "topicId": 14,
+      "koreanText": "두피가 따가워요.",
+      "russianTranslation": "Кожа головы щиплет.",
+      "englishTranslation": "My scalp stings.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 14010,
+      "topicId": 14,
+      "koreanText": "얼마나 걸려요?",
+      "russianTranslation": "Сколько по времени?",
+      "englishTranslation": "How long will it take?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 14011,
+      "topicId": 14,
+      "koreanText": "예약했어요.",
+      "russianTranslation": "У меня запись.",
+      "englishTranslation": "I have a reservation.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 14012,
+      "topicId": 14,
+      "koreanText": "스타일 추천해 주세요.",
+      "russianTranslation": "Посоветуйте стрижку.",
+      "englishTranslation": "Recommend a style.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 14013,
+      "topicId": 14,
+      "koreanText": "손질만 해 주세요.",
+      "russianTranslation": "Только укладка.",
+      "englishTranslation": "Styling only, please.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 14014,
+      "topicId": 14,
+      "koreanText": "너무 뜨거워요.",
+      "russianTranslation": "Слишком горячо.",
+      "englishTranslation": "It's too hot.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 14015,
+      "topicId": 14,
+      "koreanText": "만족해요, 감사합니다.",
+      "russianTranslation": "Доволен, спасибо.",
+      "englishTranslation": "I'm happy with it, thanks.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 15001,
+      "topicId": 15,
+      "koreanText": "경찰관님, 도와주세요.",
+      "russianTranslation": "Офицер, помогите, пожалуйста.",
+      "englishTranslation": "Officer, please help me.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 15002,
+      "topicId": 15,
+      "koreanText": "지갑을 잃어버렸어요.",
+      "russianTranslation": "Я потерял кошелёк.",
+      "englishTranslation": "I lost my wallet.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 15003,
+      "topicId": 15,
+      "koreanText": "휴대폰 도난당했어요.",
+      "russianTranslation": "У меня украли телефон.",
+      "englishTranslation": "My phone was stolen.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 15004,
+      "topicId": 15,
+      "koreanText": "길을 잃었어요.",
+      "russianTranslation": "Я заблудился.",
+      "englishTranslation": "I'm lost.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 15005,
+      "topicId": 15,
+      "koreanText": "사고가 났어요.",
+      "russianTranslation": "Произошла авария.",
+      "englishTranslation": "There was an accident.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 15006,
+      "topicId": 15,
+      "koreanText": "신고하려고요.",
+      "russianTranslation": "Хочу заявить.",
+      "englishTranslation": "I'd like to report it.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 15007,
+      "topicId": 15,
+      "koreanText": "목격자예요.",
+      "russianTranslation": "Я свидетель.",
+      "englishTranslation": "I'm a witness.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 15008,
+      "topicId": 15,
+      "koreanText": "통역이 필요해요.",
+      "russianTranslation": "Нужен переводчик.",
+      "englishTranslation": "I need an interpreter.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 15009,
+      "topicId": 15,
+      "koreanText": "여권 사본 있어요.",
+      "russianTranslation": "У меня есть копия паспорта.",
+      "englishTranslation": "I have a copy of my passport.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 15010,
+      "topicId": 15,
+      "koreanText": "가까운 파출소가 어디예요?",
+      "russianTranslation": "Где ближайший участок?",
+      "englishTranslation": "Where is the nearest police box?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 15011,
+      "topicId": 15,
+      "koreanText": "112에 전화했어요.",
+      "russianTranslation": "Я звонил на 112.",
+      "englishTranslation": "I called 112.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 15012,
+      "topicId": 15,
+      "koreanText": "진술서 써야 해요?",
+      "russianTranslation": "Нужно писать показания?",
+      "englishTranslation": "Do I need to write a statement?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 15013,
+      "topicId": 15,
+      "koreanText": "CCTV 확인해 주세요.",
+      "russianTranslation": "Проверьте камеры, пожалуйста.",
+      "englishTranslation": "Please check the CCTV.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 15014,
+      "topicId": 15,
+      "koreanText": "조심하세요, 위험해요.",
+      "russianTranslation": "Осторожно, опасно.",
+      "englishTranslation": "Careful, it's dangerous.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 15015,
+      "topicId": 15,
+      "koreanText": "감사합니다, 수고하세요.",
+      "russianTranslation": "Спасибо, хорошей смены.",
+      "englishTranslation": "Thank you, take care.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 16001,
+      "topicId": 16,
+      "koreanText": "신고 접수하러 왔어요.",
+      "russianTranslation": "Пришёл подать заявление.",
+      "englishTranslation": "I came to file a report.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 16002,
+      "topicId": 16,
+      "koreanText": "분실 신고할게요.",
+      "russianTranslation": "Заявлю о потере.",
+      "englishTranslation": "I'll report a loss.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 16003,
+      "topicId": 16,
+      "koreanText": "여권을 분실했어요.",
+      "russianTranslation": "Я потерял паспорт.",
+      "englishTranslation": "I lost my passport.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 16004,
+      "topicId": 16,
+      "koreanText": "도장 찍어 주세요.",
+      "russianTranslation": "Поставьте печать, пожалуйста.",
+      "englishTranslation": "Please stamp this.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 16005,
+      "topicId": 16,
+      "koreanText": "접수 번호 받았어요.",
+      "russianTranslation": "Мне дали номер обращения.",
+      "englishTranslation": "I received a case number.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 16006,
+      "topicId": 16,
+      "koreanText": "처리 결과 언제 알 수 있어요?",
+      "russianTranslation": "Когда будет результат?",
+      "englishTranslation": "When will I know the outcome?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 16007,
+      "topicId": 16,
+      "koreanText": "서명하면 돼요?",
+      "russianTranslation": "Достаточно подписи?",
+      "englishTranslation": "Should I sign here?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 16008,
+      "topicId": 16,
+      "koreanText": "통역사 불러 주세요.",
+      "russianTranslation": "Позовите переводчика.",
+      "englishTranslation": "Please call an interpreter.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 16009,
+      "topicId": 16,
+      "koreanText": "대기해야 해요?",
+      "russianTranslation": "Нужно ждать?",
+      "englishTranslation": "Do I need to wait?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 16010,
+      "topicId": 16,
+      "koreanText": "오늘 접수 가능해요?",
+      "russianTranslation": "Сегодня можно подать?",
+      "englishTranslation": "Can I file today?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 16011,
+      "topicId": 16,
+      "koreanText": "신분증 보여 드릴게요.",
+      "russianTranslation": "Покажу удостоверение.",
+      "englishTranslation": "I'll show my ID.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 16012,
+      "topicId": 16,
+      "koreanText": "사진이 필요해요?",
+      "russianTranslation": "Нужны фотографии?",
+      "englishTranslation": "Do you need photos?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 16013,
+      "topicId": 16,
+      "koreanText": "연락처 남겨도 돼요?",
+      "russianTranslation": "Можно оставить контакт?",
+      "englishTranslation": "May I leave my contact?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 16014,
+      "topicId": 16,
+      "koreanText": "복사본 받을 수 있어요?",
+      "russianTranslation": "Можно получить копию?",
+      "englishTranslation": "Can I get a copy?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 16015,
+      "topicId": 16,
+      "koreanText": "수고하셨습니다.",
+      "russianTranslation": "Спасибо за работу.",
+      "englishTranslation": "Thank you for your service.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 17001,
+      "topicId": 17,
+      "koreanText": "원룸 구하러 왔어요.",
+      "russianTranslation": "Ищу студию.",
+      "englishTranslation": "I'm looking for a studio.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 17002,
+      "topicId": 17,
+      "koreanText": "월세 얼마예요?",
+      "russianTranslation": "Сколько 월 аренды?",
+      "englishTranslation": "What's the monthly rent?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 17003,
+      "topicId": 17,
+      "koreanText": "보증금은 얼마예요?",
+      "russianTranslation": "Сколько залог?",
+      "englishTranslation": "What's the deposit?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 17004,
+      "topicId": 17,
+      "koreanText": "관리비 포함이에요?",
+      "russianTranslation": "Коммуналка включена?",
+      "englishTranslation": "Are utilities included?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 17005,
+      "topicId": 17,
+      "koreanText": "계약 기간이 어떻게 돼요?",
+      "russianTranslation": "На какой срок договор?",
+      "englishTranslation": "What's the lease term?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 17006,
+      "topicId": 17,
+      "koreanText": "집 보여 주세요.",
+      "russianTranslation": "Покажите квартиру.",
+      "englishTranslation": "Please show me the place.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 17007,
+      "topicId": 17,
+      "koreanText": "역에서 가까워요?",
+      "russianTranslation": "Близко к станции?",
+      "englishTranslation": "Is it close to the subway?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 17008,
+      "topicId": 17,
+      "koreanText": "반려동물 가능해요?",
+      "russianTranslation": "Можно с животными?",
+      "englishTranslation": "Are pets allowed?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 17009,
+      "topicId": 17,
+      "koreanText": "전입 신고 도와주세요.",
+      "russianTranslation": "Помогите с регистрацией по месту жительства.",
+      "englishTranslation": "Help with address registration.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 17010,
+      "topicId": 17,
+      "koreanText": "에어컨 있어요?",
+      "russianTranslation": "Есть кондиционер?",
+      "englishTranslation": "Is there air conditioning?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 17011,
+      "topicId": 17,
+      "koreanText": "사진이랑 같아요?",
+      "russianTranslation": "Как на фото?",
+      "englishTranslation": "Is it like the photos?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 17012,
+      "topicId": 17,
+      "koreanText": "계약서 검토할게요.",
+      "russianTranslation": "Проверю договор.",
+      "englishTranslation": "I'll review the contract.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 17013,
+      "topicId": 17,
+      "koreanText": "중개 수수료 얼마예요?",
+      "russianTranslation": "Сколько комиссия агентства?",
+      "englishTranslation": "What's the agency fee?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 17014,
+      "topicId": 17,
+      "koreanText": "입주 가능일이 언제예요?",
+      "russianTranslation": "Когда можно заселиться?",
+      "englishTranslation": "When can I move in?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 17015,
+      "topicId": 17,
+      "koreanText": "다른 매물 더 있어요?",
+      "russianTranslation": "Есть другие варианты?",
+      "englishTranslation": "Do you have other listings?",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 18001,
+      "topicId": 18,
+      "koreanText": "집주인님, 안녕하세요.",
+      "russianTranslation": "Здравствуйте, хозяин.",
+      "englishTranslation": "Hello, landlord.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 18002,
+      "topicId": 18,
+      "koreanText": "수도가 안 나와요.",
+      "russianTranslation": "Не идёт вода.",
+      "englishTranslation": "The water isn't working.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 18003,
+      "topicId": 18,
+      "koreanText": "보일러가 고장 났어요.",
+      "russianTranslation": "Сломался котёл.",
+      "englishTranslation": "The boiler is broken.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 18004,
+      "topicId": 18,
+      "koreanText": "에어컨이 작동 안 해요.",
+      "russianTranslation": "Кондиционер не работает.",
+      "englishTranslation": "The AC doesn't work.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 18005,
+      "topicId": 18,
+      "koreanText": "수리해 주실 수 있어요?",
+      "russianTranslation": "Можете отремонтировать?",
+      "englishTranslation": "Can you fix it?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 18006,
+      "topicId": 18,
+      "koreanText": "월세 송금했어요.",
+      "russianTranslation": "Перевёл аренду.",
+      "englishTranslation": "I sent the rent.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 18007,
+      "topicId": 18,
+      "koreanText": "계약 연장하고 싶어요.",
+      "russianTranslation": "Хочу продлить договор.",
+      "englishTranslation": "I'd like to renew the lease.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 18008,
+      "topicId": 18,
+      "koreanText": "퇴실일 알려 드릴게요.",
+      "russianTranslation": "Сообщу дату выезда.",
+      "englishTranslation": "I'll tell you my move-out date.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 18009,
+      "topicId": 18,
+      "koreanText": "청소하고 퇴실할게요.",
+      "russianTranslation": "Уберусь перед выездом.",
+      "englishTranslation": "I'll clean before moving out.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 18010,
+      "topicId": 18,
+      "koreanText": "보증금 돌려받을 수 있어요?",
+      "russianTranslation": "Вернёте залог?",
+      "englishTranslation": "Can I get my deposit back?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 18011,
+      "topicId": 18,
+      "koreanText": "쓰레기 버리는 곳이 어디예요?",
+      "russianTranslation": "Куда выносить мусор?",
+      "englishTranslation": "Where do I throw trash?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 18012,
+      "topicId": 18,
+      "koreanText": "배달 올 때 연락드릴게요.",
+      "russianTranslation": "Позвоню, когда приедет доставка.",
+      "englishTranslation": "I'll call when delivery arrives.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 18013,
+      "topicId": 18,
+      "koreanText": "시끄럽지 않게 할게요.",
+      "russianTranslation": "Постараюсь не шуметь.",
+      "englishTranslation": "I'll keep quiet.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 18014,
+      "topicId": 18,
+      "koreanText": "방문 코드 알려 주세요.",
+      "russianTranslation": "Дайте код от двери.",
+      "englishTranslation": "Please give me the door code.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 18015,
+      "topicId": 18,
+      "koreanText": "감사합니다, 잘 지낼게요.",
+      "russianTranslation": "Спасибо, буду аккуратно жить.",
+      "englishTranslation": "Thanks, I'll take good care of the place.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 19001,
+      "topicId": 19,
+      "koreanText": "주민등록 등록하러 왔어요.",
+      "russianTranslation": "Пришёл зарегистрироваться по месту жительства.",
+      "englishTranslation": "I came to register my address.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 19002,
+      "topicId": 19,
+      "koreanText": "외국인 등록증 재발급받으러 왔어요.",
+      "russianTranslation": "На перевыпуск ARC.",
+      "englishTranslation": "I came to reissue my ARC.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 19003,
+      "topicId": 19,
+      "koreanText": "서류 접수 창구가 어디예요?",
+      "russianTranslation": "Где окно приёма документов?",
+      "englishTranslation": "Where is the document counter?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 19004,
+      "topicId": 19,
+      "koreanText": "번호표 뽑아야 해요?",
+      "russianTranslation": "Нужно взять талон?",
+      "englishTranslation": "Do I need a ticket number?",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 19005,
+      "topicId": 19,
+      "koreanText": "대기 시간이 얼마나 돼요?",
+      "russianTranslation": "Сколько ждать?",
+      "englishTranslation": "How long is the wait?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 19006,
+      "topicId": 19,
+      "koreanText": "신청서 작성 도와주세요.",
+      "russianTranslation": "Помогите заполнить заявление.",
+      "englishTranslation": "Please help me fill out the form.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 19007,
+      "topicId": 19,
+      "koreanText": "인감 도장 필요해요?",
+      "russianTranslation": "Нужна печать?",
+      "englishTranslation": "Do I need a seal stamp?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 19008,
+      "topicId": 19,
+      "koreanText": "수수료 어디서 내나요?",
+      "russianTranslation": "Где платить пошлину?",
+      "englishTranslation": "Where do I pay the fee?",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 19009,
+      "topicId": 19,
+      "koreanText": "온라인 예약했어요.",
+      "russianTranslation": "Записался онлайн.",
+      "englishTranslation": "I booked online.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 19010,
+      "topicId": 19,
+      "koreanText": "통역 서비스 있나요?",
+      "russianTranslation": "Есть перевод?",
+      "englishTranslation": "Is interpretation available?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 19011,
+      "topicId": 19,
+      "koreanText": "증명서 발급받고 싶어요.",
+      "russianTranslation": "Нужна справка.",
+      "englishTranslation": "I'd like a certificate issued.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 19012,
+      "topicId": 19,
+      "koreanText": "주소 변경 신고할게요.",
+      "russianTranslation": "Сообщу о смене адреса.",
+      "englishTranslation": "I'll report a change of address.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 19013,
+      "topicId": 19,
+      "koreanText": "필요한 서류 목록 알려 주세요.",
+      "russianTranslation": "Список нужных документов, пожалуйста.",
+      "englishTranslation": "Please tell me required documents.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 19014,
+      "topicId": 19,
+      "koreanText": "처리 완료되면 연락 주세요.",
+      "russianTranslation": "Свяжитесь, когда будет готово.",
+      "englishTranslation": "Contact me when it's done.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 19015,
+      "topicId": 19,
+      "koreanText": "감사합니다.",
+      "russianTranslation": "Спасибо.",
+      "englishTranslation": "Thank you.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 20001,
+      "topicId": 20,
+      "koreanText": "종합소득세 신고하러 왔어요.",
+      "russianTranslation": "Пришёл подать декларацию о доходах.",
+      "englishTranslation": "I came to file income tax.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 20002,
+      "topicId": 20,
+      "koreanText": "외국인도 신고해야 해요?",
+      "russianTranslation": "Иностранцам тоже нужно?",
+      "englishTranslation": "Do foreigners need to file too?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 20003,
+      "topicId": 20,
+      "koreanText": "신고 기간이 언제까지예요?",
+      "russianTranslation": "До какого числа подача?",
+      "englishTranslation": "What's the filing deadline?",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 20004,
+      "topicId": 20,
+      "koreanText": "온라인으로 신고할게요.",
+      "russianTranslation": "Подам онлайн.",
+      "englishTranslation": "I'll file online.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 20005,
+      "topicId": 20,
+      "koreanText": "세금 계산 도와주세요.",
+      "russianTranslation": "Помогите рассчитать налог.",
+      "englishTranslation": "Please help calculate my tax.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 20006,
+      "topicId": 20,
+      "koreanText": "환급 받을 수 있어요?",
+      "russianTranslation": "Можно получить возврат?",
+      "englishTranslation": "Can I get a refund?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 20007,
+      "topicId": 20,
+      "koreanText": "납부서 발급해 주세요.",
+      "russianTranslation": "Выдайте квитанцию на оплату.",
+      "englishTranslation": "Please issue a payment slip.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 20008,
+      "topicId": 20,
+      "koreanText": "사업자등록증 보여 드릴게요.",
+      "russianTranslation": "Покажу регистрацию бизнеса.",
+      "englishTranslation": "I'll show my business registration.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 20009,
+      "topicId": 20,
+      "koreanText": "공제 항목이 뭐예요?",
+      "russianTranslation": "Какие вычеты есть?",
+      "englishTranslation": "What deductions are there?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 20010,
+      "topicId": 20,
+      "koreanText": "체납은 없어요.",
+      "russianTranslation": "Задолженности нет.",
+      "englishTranslation": "I have no overdue tax.",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 20011,
+      "topicId": 20,
+      "koreanText": "상담 예약했어요.",
+      "russianTranslation": "У меня запись на консультацию.",
+      "englishTranslation": "I have a consultation appointment.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 20012,
+      "topicId": 20,
+      "koreanText": "통역 필요합니다.",
+      "russianTranslation": "Нужен переводчик.",
+      "englishTranslation": "I need an interpreter.",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 20013,
+      "topicId": 20,
+      "koreanText": "서류 제출했어요.",
+      "russianTranslation": "Документы уже подал.",
+      "englishTranslation": "I already submitted documents.",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 20014,
+      "topicId": 20,
+      "koreanText": "처리 결과 우편으로 보내 주세요.",
+      "russianTranslation": "Пришлите результат почтой.",
+      "englishTranslation": "Send the result by mail.",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 20015,
+      "topicId": 20,
+      "koreanText": "수고하십니다.",
+      "russianTranslation": "Спасибо за работу.",
+      "englishTranslation": "Thank you for your work.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 21001,
+      "topicId": 21,
+      "koreanText": "유심 칩 사러 왔어요.",
+      "russianTranslation": "Пришёл купить SIM.",
+      "englishTranslation": "I came to buy a SIM.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 21002,
+      "topicId": 21,
+      "koreanText": "선불 요금제 있어요?",
+      "russianTranslation": "Есть предоплата?",
+      "englishTranslation": "Do you have prepaid plans?",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 21003,
+      "topicId": 21,
+      "koreanText": "여권 보여 드릴게요.",
+      "russianTranslation": "Покажу паспорт.",
+      "englishTranslation": "I'll show my passport.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 21004,
+      "topicId": 21,
+      "koreanText": "외국인 등록증 있어요.",
+      "russianTranslation": "У меня есть ARC.",
+      "englishTranslation": "I have an ARC.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 21005,
+      "topicId": 21,
+      "koreanText": "데이터 무제한 요금제예요?",
+      "russianTranslation": "Безлимитный интернет?",
+      "englishTranslation": "Is this unlimited data?",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 21006,
+      "topicId": 21,
+      "koreanText": "번호 이식하고 싶어요.",
+      "russianTranslation": "Хочу перенести номер.",
+      "englishTranslation": "I'd like to port my number.",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 21007,
+      "topicId": 21,
+      "koreanText": "개통해 주세요.",
+      "russianTranslation": "Активируйте, пожалуйста.",
+      "englishTranslation": "Please activate it.",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 21008,
+      "topicId": 21,
+      "koreanText": "APN 설정 도와주세요.",
+      "russianTranslation": "Помогите настроить APN.",
+      "englishTranslation": "Please help set up APN.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 21009,
+      "topicId": 21,
+      "koreanText": "eSIM 가능해요?",
+      "russianTranslation": "Можно eSIM?",
+      "englishTranslation": "Is eSIM available?",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 21010,
+      "topicId": 21,
+      "koreanText": "월 요금이 얼마예요?",
+      "russianTranslation": "Сколько в месяц?",
+      "englishTranslation": "What's the monthly fee?",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 21011,
+      "topicId": 21,
+      "koreanText": "약정 기간이 있어요?",
+      "russianTranslation": "Есть контракт на срок?",
+      "englishTranslation": "Is there a contract period?",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 21012,
+      "topicId": 21,
+      "koreanText": "해지하면 위약금 있어요?",
+      "russianTranslation": "Штраф при расторжении?",
+      "englishTranslation": "Is there a cancellation fee?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 21013,
+      "topicId": 21,
+      "koreanText": "충전 어떻게 해요?",
+      "russianTranslation": "Как пополнять?",
+      "englishTranslation": "How do I top up?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 21014,
+      "topicId": 21,
+      "koreanText": "와이파이 라우터도 팔아요?",
+      "russianTranslation": "Продаёте Wi‑Fi роутеры?",
+      "englishTranslation": "Do you sell Wi‑Fi routers?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 21015,
+      "topicId": 21,
+      "koreanText": "감사합니다.",
+      "russianTranslation": "Спасибо.",
+      "englishTranslation": "Thank you.",
+      "audioUrlOrPath": "",
+      "order": 15
+    },
+    {
+      "id": 22001,
+      "topicId": 22,
+      "koreanText": "계좌 개설하러 왔어요.",
+      "russianTranslation": "Открыть счёт.",
+      "englishTranslation": "I came to open an account.",
+      "audioUrlOrPath": "",
+      "order": 1
+    },
+    {
+      "id": 22002,
+      "topicId": 22,
+      "koreanText": "여권과 외국인등록증 있어요.",
+      "russianTranslation": "Есть паспорт и ARC.",
+      "englishTranslation": "I have my passport and ARC.",
+      "audioUrlOrPath": "",
+      "order": 2
+    },
+    {
+      "id": 22003,
+      "topicId": 22,
+      "koreanText": "인터넷 뱅킹 신청할게요.",
+      "russianTranslation": "Подключу интернет-банк.",
+      "englishTranslation": "I'd like internet banking.",
+      "audioUrlOrPath": "",
+      "order": 3
+    },
+    {
+      "id": 22004,
+      "topicId": 22,
+      "koreanText": "체크카드 발급받고 싶어요.",
+      "russianTranslation": "Нужна дебетовая карта.",
+      "englishTranslation": "I'd like a debit card.",
+      "audioUrlOrPath": "",
+      "order": 4
+    },
+    {
+      "id": 22005,
+      "topicId": 22,
+      "koreanText": "송금하려고요.",
+      "russianTranslation": "Хочу перевести деньги.",
+      "englishTranslation": "I'd like to send money.",
+      "audioUrlOrPath": "",
+      "order": 5
+    },
+    {
+      "id": 22006,
+      "topicId": 22,
+      "koreanText": "해외 송금 가능해요?",
+      "russianTranslation": "Можно за границу?",
+      "englishTranslation": "Can I remit abroad?",
+      "audioUrlOrPath": "",
+      "order": 6
+    },
+    {
+      "id": 22007,
+      "topicId": 22,
+      "koreanText": "수수료가 얼마예요?",
+      "russianTranslation": "Какая комission?",
+      "englishTranslation": "What's the fee?",
+      "audioUrlOrPath": "",
+      "order": 7
+    },
+    {
+      "id": 22008,
+      "topicId": 22,
+      "koreanText": "통장 사본 발급해 주세요.",
+      "russianTranslation": "Выписку/копию счёта, пожалуйста.",
+      "englishTranslation": "Please issue a bank book copy.",
+      "audioUrlOrPath": "",
+      "order": 8
+    },
+    {
+      "id": 22009,
+      "topicId": 22,
+      "koreanText": "비밀번호 변경하고 싶어요.",
+      "russianTranslation": "Сменить PIN.",
+      "englishTranslation": "I'd like to change my PIN.",
+      "audioUrlOrPath": "",
+      "order": 9
+    },
+    {
+      "id": 22010,
+      "topicId": 22,
+      "koreanText": "카드 분실 신고할게요.",
+      "russianTranslation": "Заявлю о потере карты.",
+      "englishTranslation": "I'll report a lost card.",
+      "audioUrlOrPath": "",
+      "order": 10
+    },
+    {
+      "id": 22011,
+      "topicId": 22,
+      "koreanText": "OTP 발급받았어요.",
+      "russianTranslation": "Получил OTP.",
+      "englishTranslation": "I got an OTP token.",
+      "audioUrlOrPath": "",
+      "order": 11
+    },
+    {
+      "id": 22012,
+      "topicId": 22,
+      "koreanText": "대출 상담 받을 수 있어요?",
+      "russianTranslation": "Консультация по кредиту?",
+      "englishTranslation": "Can I get a loan consultation?",
+      "audioUrlOrPath": "",
+      "order": 12
+    },
+    {
+      "id": 22013,
+      "topicId": 22,
+      "koreanText": "영업 시간이 어떻게 돼요?",
+      "russianTranslation": "Часы работы?",
+      "englishTranslation": "What are your hours?",
+      "audioUrlOrPath": "",
+      "order": 13
+    },
+    {
+      "id": 22014,
+      "topicId": 22,
+      "koreanText": "ATM은 어디 있어요?",
+      "russianTranslation": "Где банкомат?",
+      "englishTranslation": "Where is the ATM?",
+      "audioUrlOrPath": "",
+      "order": 14
+    },
+    {
+      "id": 22015,
+      "topicId": 22,
+      "koreanText": "감사합니다.",
+      "russianTranslation": "Спасибо.",
+      "englishTranslation": "Thank you.",
+      "audioUrlOrPath": "",
+      "order": 15
+    }
+  ]
+}

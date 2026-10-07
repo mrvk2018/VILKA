@@ -1,0 +1,130 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Vilka",
+  "homeSubtitle": "Фонетическое погружение",
+  "learningLanguageLabel": "Язык обучения",
+  "korean": "Корейский",
+  "openTopics": "Темы курса",
+  "topicsTitle": "Темы",
+  "phrasesTitle": "Фразы",
+  "topicCount": "{count} тем",
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "phraseCount": "{count} фраз",
+  "@phraseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "emptyTopics": "Темы ещё не загружены",
+  "emptyPhrases": "В этой теме нет фраз",
+  "loadError": "Не удалось загрузить данные",
+  "microphonePermissionDenied": "Без микрофона голосовой ввод будет недоступен. Разрешение можно включить в настройках.",
+  "openAppSettings": "Настройки",
+  "lessonTitle": "Урок",
+  "listenPhrase": "Послушать фразу",
+  "speakButton": "Говорить",
+  "stopSpeaking": "Стоп",
+  "sendMessage": "Отправить",
+  "lessonInputHint": "Напишите или скажите фразу учителю",
+  "lessonEmptyDialog": "Начните диалог с учителем",
+  "dismissError": "Скрыть",
+  "playTopic": "Слушать тему",
+  "playerTitle": "Плеер",
+  "playerPlay": "Играть",
+  "playerPause": "Пауза",
+  "playerStop": "Стоп",
+  "examPromptTitle": "Экзамен доступен",
+  "examPromptBody": "Тема прослушана. Сдать экзамен сейчас?",
+  "examLater": "Позже",
+  "examGo": "К экзамену",
+  "examStubMessage": "Экран экзамена появится в следующем шаге",
+  "examTitle": "Экзамен",
+  "examAccessDenied": "Сначала полностью прослушайте тему или нажмите Стоп после прохода.",
+  "examProgress": "{current} / {total}",
+  "@examProgress": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "examPassed": "Экзамен сдан",
+  "examFailed": "Экзамен не сдан",
+  "examScoreLabel": "{score}%",
+  "@examScoreLabel": {
+    "placeholders": {
+      "score": { "type": "int" }
+    }
+  },
+  "examBackToTopics": "Назад к темам",
+  "examRetry": "Пересдать",
+  "srsTitle": "Повторение",
+  "srsHomeTitle": "Интервальное повторение",
+  "srsAllDone": "На сегодня всё повторено",
+  "srsDueCount": "Доступно фраз для повторения: {count}",
+  "@srsDueCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "srsStart": "Начать повторение",
+  "srsShowTranslation": "Показать перевод",
+  "srsRemember": "Помню",
+  "srsForgot": "Забыл",
+  "srsFinished": "Все фразы повторены!",
+  "srsBack": "Назад",
+  "srsProgress": "{current} / {total}",
+  "@srsProgress": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "hangulLearnBanner": "Изучить хангыль",
+  "hangulAlphabetTitle": "Алфавит Хангыль",
+  "hangulAlphabetSubtitle": "Нажмите на букву, чтобы услышать произношение. Иконка карандаша — тренировка письма.",
+  "hangulSectionConsonants": "Согласные",
+  "hangulSectionVowels": "Гласные",
+  "hangulPracticeLetter": "Практика письма",
+  "hangulDrawingTitle": "Напиши букву: {letter}",
+  "@hangulDrawingTitle": {
+    "placeholders": {
+      "letter": { "type": "String" }
+    }
+  },
+  "hangulDrawingInstruction": "Проведите пальцем по экрану, повторяя форму буквы.",
+  "hangulClearCanvas": "Очистить",
+  "hangulPlayLetter": "Прослушать букву",
+  "speechSpeedTooltip": "Скорость речи",
+  "levelsTitle": "Уровни",
+  "levelName": "Уровень {number}",
+  "@levelName": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "level0Subtitle": "Текущий курс",
+  "levelLockedSubtitle": "Скоро",
+  "levelLockedSnackbar": "Этот уровень станет доступен в следующих обновлениях",
+  "welcomeHeadline": "Добро пожаловать",
+  "welcomeSubtitle": "Войдите, чтобы сохранить профиль ученика и домашние задания.",
+  "signInWithGoogle": "Войти через Google",
+  "signInWithApple": "Войти через Apple",
+  "signInError": "Не удалось войти. Попробуйте ещё раз.",
+  "homeGreeting": "Привет, {name}!",
+  "@homeGreeting": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "homeLogout": "Выход",
+  "homeHomeworkTitle": "Ваше домашнее задание",
+  "homeHomeworkFallback": "Пройти первый аудиоурок и ознакомиться с фразами"
+}

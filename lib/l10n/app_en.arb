@@ -1,0 +1,130 @@
+{
+  "@@locale": "en",
+  "appTitle": "Vilka",
+  "homeSubtitle": "Phonetic immersion",
+  "learningLanguageLabel": "Learning language",
+  "korean": "Korean",
+  "openTopics": "Course topics",
+  "topicsTitle": "Topics",
+  "phrasesTitle": "Phrases",
+  "topicCount": "{count} topics",
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "phraseCount": "{count} phrases",
+  "@phraseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "emptyTopics": "Topics are not loaded yet",
+  "emptyPhrases": "No phrases in this topic",
+  "loadError": "Failed to load data",
+  "microphonePermissionDenied": "Without microphone access, voice input will be unavailable. You can enable it in Settings.",
+  "openAppSettings": "Settings",
+  "lessonTitle": "Lesson",
+  "listenPhrase": "Listen to phrase",
+  "speakButton": "Speak",
+  "stopSpeaking": "Stop",
+  "sendMessage": "Send",
+  "lessonInputHint": "Type or say a phrase to the teacher",
+  "lessonEmptyDialog": "Start a dialogue with the teacher",
+  "dismissError": "Dismiss",
+  "playTopic": "Play topic",
+  "playerTitle": "Player",
+  "playerPlay": "Play",
+  "playerPause": "Pause",
+  "playerStop": "Stop",
+  "examPromptTitle": "Exam available",
+  "examPromptBody": "You finished this topic. Take the exam now?",
+  "examLater": "Later",
+  "examGo": "Take exam",
+  "examStubMessage": "The exam screen will be added in a later step",
+  "examTitle": "Exam",
+  "examAccessDenied": "Finish a full playthrough of the topic, or press Stop after one complete pass.",
+  "examProgress": "{current} / {total}",
+  "@examProgress": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "examPassed": "Exam passed",
+  "examFailed": "Exam not passed",
+  "examScoreLabel": "{score}%",
+  "@examScoreLabel": {
+    "placeholders": {
+      "score": { "type": "int" }
+    }
+  },
+  "examBackToTopics": "Back to topics",
+  "examRetry": "Retry",
+  "srsTitle": "Review",
+  "srsHomeTitle": "Spaced repetition",
+  "srsAllDone": "You're all caught up for today",
+  "srsDueCount": "Phrases due for review: {count}",
+  "@srsDueCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "srsStart": "Start review",
+  "srsShowTranslation": "Show translation",
+  "srsRemember": "Remembered",
+  "srsForgot": "Forgot",
+  "srsFinished": "All phrases reviewed!",
+  "srsBack": "Back",
+  "srsProgress": "{current} / {total}",
+  "@srsProgress": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "hangulLearnBanner": "Learn Hangul",
+  "hangulAlphabetTitle": "Hangul alphabet",
+  "hangulAlphabetSubtitle": "Tap a letter to hear it. Use the pencil icon to practice writing.",
+  "hangulSectionConsonants": "Consonants",
+  "hangulSectionVowels": "Vowels",
+  "hangulPracticeLetter": "Writing practice",
+  "hangulDrawingTitle": "Write the letter: {letter}",
+  "@hangulDrawingTitle": {
+    "placeholders": {
+      "letter": { "type": "String" }
+    }
+  },
+  "hangulDrawingInstruction": "Draw on the screen with your finger, following the letter shape.",
+  "hangulClearCanvas": "Clear",
+  "hangulPlayLetter": "Play letter sound",
+  "speechSpeedTooltip": "Speech speed",
+  "levelsTitle": "Levels",
+  "levelName": "Level {number}",
+  "@levelName": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "level0Subtitle": "Current course",
+  "levelLockedSubtitle": "Coming soon",
+  "levelLockedSnackbar": "This level will become available in future updates",
+  "welcomeHeadline": "Welcome",
+  "welcomeSubtitle": "Sign in to save your student profile and homework.",
+  "signInWithGoogle": "Sign in with Google",
+  "signInWithApple": "Sign in with Apple",
+  "signInError": "Could not sign in. Please try again.",
+  "homeGreeting": "Hi, {name}!",
+  "@homeGreeting": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "homeLogout": "Log out",
+  "homeHomeworkTitle": "Your homework",
+  "homeHomeworkFallback": "Complete the first audio lesson and review the phrases"
+}
